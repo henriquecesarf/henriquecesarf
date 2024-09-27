@@ -12,6 +12,8 @@ Sou desenvolvedor full-stack com foco em **React**, **Node.js**, **React Native*
 
 ## 📊 GitHub Stats
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquecesarf&show_icons=true&locale=en&layout=compact" alt="henriquecesarf" /></p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquecesarf&show_icons=true&theme=dracula)
 
 ## 🔥 Projetos em Destaque
