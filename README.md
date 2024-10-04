@@ -30,5 +30,5 @@ Sou desenvolvedor full-stack com foco em **React**, **Node.js**, **React Native*
 
 _✨ Conecte-se comigo:_
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seuUsuario](https://www.linkedin.com/in/henrique-cesar-06338222b/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/henrique-cesar-06338222b](https://www.linkedin.com/in/henrique-cesar-06338222b/))
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:henriquecfdantas@gmail.com)
