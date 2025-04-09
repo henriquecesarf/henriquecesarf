@@ -1,34 +1,61 @@
-# Olá! 👋 Eu sou Henrique Dantas
+<h2 align="left">Olá! 👋 Eu sou Henrique Dantas</h2>
 
-Sou desenvolvedor full-stack com foco em **React**, **Node.js**, **React Native** e **TypeScript**. Apaixonado por código limpo, boas práticas e novas tecnologias!
+###
 
-## 🚀 Tecnologias & Ferramentas
+<p align="left">Sou desenvolvedor full-stack com foco em React, Node.js, React Native e TypeScript. Apaixonado por código limpo, boas práticas e novas tecnologias!</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat-square&logo=styled-components)
+###
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henriquecesarf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquecesarf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquecesarf&show_icons=true&locale=en&layout=compact" alt="henriquecesarf" /></p>
+###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquecesarf&show_icons=true&theme=dracula)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
+</div>
 
-## 🔥 Projetos em Destaque
+###
 
-- [Projeto 1](https://github.com/henriquecesarf/santander-dev-week-2024) - RESTful API da Santander Dev Week 2024 construída em Java 21 com Spring Boot 3. Uma iniciativafruto da parceria entre DIO e Santander para a divulgação dos Bootcamps Santander 2024.
-- [Projeto 2](https://github.com/henriquecesarf/SearchRickAndMorty) - Descrição breve sobre o projeto.
+<div align="right">
+  <a href="mailto:henriquecesarfdantas@gmail.com?subject=Olá&body=Escrevi%20este%20e-mail%20para%20falar%20com%20você." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-cesar-06338222b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-## ✨ Curiosidades
+###
 
-- 🌱 Estou aprendendo mais sobre **C#** e **Spring3**
-- 💬 Pergunte-me sobre **React**, **Node.js** ou **boas práticas de código**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquecesarf/henriquecesarf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquecesarf/henriquecesarf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/henriquecesarf/henriquecesarf/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-_✨ Conecte-se comigo:_
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/henrique-cesar-06338222b](https://www.linkedin.com/in/henrique-cesar-06338222b/))
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:henriquecfdantas@gmail.com)
+###
