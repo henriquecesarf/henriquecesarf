@@ -79,6 +79,9 @@ projects:
   - repo: "henriquecesarf/activity-timer"
     arm: 0
     description: "React course project: writing with Typescript at Alura."
+  - repo: "henriquecesarf/Sistema-de-relat-rios-export-veis-PDF-CSV"
+    arm: 0
+    description: "Data export study."
 
 
 # Theme color overrides (optional — defaults to deep space palette)
